@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Capra</h1>
 <h3 align="center">A passionate Full stack developer from Chile</h3>
 
-- 🌱 I’m currently learning **Frameworks, maching learning**
+- 🌱 I’m currently learning **Frameworks, maching learning, and more**
 
 - 👨‍💻 All of my projects are available at [ToninoJoya](ToninoJoya)
 
