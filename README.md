@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, maching learning**
 
-- 👨‍💻 All of my projects are available at [Toninojoya](Toninojoya)
+- 👨‍💻 All of my projects are available at [ToninoJoya](ToninoJoya)
 
 - 📫 How to reach me **antoniocaprab@gmail.com**
 
